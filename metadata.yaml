@@ -1,0 +1,33 @@
+_repo: The-Road-Past-Kennesaw-The-Atlanta-Campaign-of-1864_62266
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Wiley, Bell Irvin
+    alias: Wiley, Bell I.
+    birthdate: 1906
+    deathdate: 1980
+    gutenberg_agent_id: '51870'
+    url: http://www.gutenberg.org/2009/agents/51870
+    wikipedia: https://en.wikipedia.org/wiki/Bell_I._Wiley
+creator:
+  author:
+    agent_name: McMurry, Richard M.
+    gutenberg_agent_id: '51862'
+    url: http://www.gutenberg.org/2009/agents/51862
+description: ''
+gutenberg_issued: '2020-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62266'
+  lccn: '72602949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atlanta Campaign, 1864'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- GITenberg
+title: 'The Road Past Kennesaw: The Atlanta Campaign of 1864'
+url: http://www.gutenberg.org/ebooks/62266
