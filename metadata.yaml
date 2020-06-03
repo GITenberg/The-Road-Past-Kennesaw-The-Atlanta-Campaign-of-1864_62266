@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '51870'
     url: http://www.gutenberg.org/2009/agents/51870
     wikipedia: https://en.wikipedia.org/wiki/Bell_I._Wiley
+covers:
+- cover_type: archival
+  image_path: 62266-h/images/cover.jpg
 creator:
   author:
     agent_name: McMurry, Richard M.
     gutenberg_agent_id: '51862'
     url: http://www.gutenberg.org/2009/agents/51862
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62266#The-Road-Past-Kennesaw-The-Atlanta-Campaign-of-1864
 gutenberg_issued: '2020-05-28'
 gutenberg_type: Text
 identifiers:
